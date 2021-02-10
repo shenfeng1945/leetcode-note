@@ -1,5 +1,6 @@
 module.exports = {
   title: "LeetCode",
+  base: '/leetcode-note',
   description: "LeetCode学习笔记",
   themeConfig: {
     sidebar: [
