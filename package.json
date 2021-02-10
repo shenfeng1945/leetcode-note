@@ -1,0 +1,16 @@
+{
+  "name": "leetcode-note",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:shenfeng1945/leetcode-note.git",
+  "author": "shenfeng1945 <823902826@qq.com>",
+  "license": "MIT",
+  "scripts": {
+    "docs:dev": "vuepress dev docs --no-cache",
+    "docs:build": "vuepress build docs",
+    "deploy": "sh ./deploy.sh"
+  },
+  "devDependencies": {
+    "vuepress": "^1.8.0"
+  }
+}
