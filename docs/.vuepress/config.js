@@ -1,6 +1,7 @@
 module.exports = {
   title: "LeetCode",
-  base: "/leetcode-note/",
+//   base: "/leetcode-note/",
+  base: "/", // 部署vercel上
   description: "LeetCode学习笔记",
   themeConfig: {
     sidebar: [

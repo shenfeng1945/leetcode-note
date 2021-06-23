@@ -8,7 +8,8 @@
   "scripts": {
     "docs:dev": "vuepress dev docs --no-cache",
     "docs:build": "vuepress build docs",
-    "deploy": "sh ./deploy.sh"
+    "deploy": "sh ./deploy.sh",
+    "deploy-gitee": "sh ./deploy-gitee.sh"
   },
   "devDependencies": {
     "vuepress": "^1.8.0"
